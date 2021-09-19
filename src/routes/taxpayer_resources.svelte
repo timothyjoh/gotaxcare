@@ -2,7 +2,7 @@
   <title>Taxpayer Resources</title>
 </svelte:head>
 
-<h3>Taxpayer Resources</h3>
+<h1>Taxpayer Resources</h1>
 <ul>
   <li><a href="http://irs.gov">IRS</a>&nbsp;Website</li>
   <li><a href="https://www.tax.virginia.gov/">VA Department of Taxation</a></li>

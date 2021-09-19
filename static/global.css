@@ -38,3 +38,31 @@ code {
 	}
 }
 
+img,
+fieldset {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+	width: auto;
+}
+.full {
+	float: left;
+	width: 100%;
+}
+.curve {
+	float: left;
+	width: 100%;
+}
+.curve img {
+	float: left;
+}
+.clear {
+	clear: both;
+}
+

@@ -60,37 +60,8 @@
     color: #797979;
     background: url(../images/body_bg.gif) repeat-x 0 0;
   }
-  img,
-  fieldset {
-    border: none;
-    margin: 0;
-    padding: 0;
-  }
-  .left {
-    float: left;
-  }
-  .right {
-    float: right;
-    width: auto;
-  }
-  .full {
-    float: left;
-    width: 100%;
-  }
-  .curve {
-    float: left;
-    width: 100%;
-  }
-  .curve img {
-    float: left;
-  }
-  .clear {
-    clear: both;
-  }
+
   a:focus {
-    outline: none;
-  }
-  input:focus {
     outline: none;
   }
 
