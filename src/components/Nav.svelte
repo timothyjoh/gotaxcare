@@ -1,5 +1,4 @@
 <script>
-  export let segment
 </script>
 
 <nav>
@@ -15,82 +14,6 @@
 </nav>
 
 <style>
-  #header .menu {
-    float: left;
-    width: 769px;
-    margin: 26px 0 0 43px;
-  }
-  #header .menu ul {
-    float: left;
-    width: 100%;
-    list-style: none;
-    height: 29px;
-  }
-  #header .menu ul li {
-    float: left;
-    width: auto;
-    padding: 8px 2px 8px 0;
-    background: url(../images/menu_divider.gif) no-repeat right 0;
-  }
-  #header .menu ul li.divider {
-    background: url(../images/home_divider.gif) no-repeat right 0;
-  }
-  #header .menu ul li a {
-    float: left;
-    width: auto;
-    height: 29px;
-    text-indent: -9999px;
-  }
-  #header .menu ul li.home a {
-    float: left;
-    width: 63px;
-    height: 29px;
-    background: url(../images/home.gif) no-repeat 0 0;
-  }
-  #header .menu ul li.about a {
-    float: left;
-    width: 81px;
-    height: 29px;
-    background: url(../images/about.gif) no-repeat 0 0;
-  }
-  #header .menu ul li.special a {
-    float: left;
-    width: 116px;
-    height: 29px;
-    background: url(../images/special.gif) no-repeat 0 0;
-  }
-  #header .menu ul li.individual a {
-    float: left;
-    width: 151px;
-    height: 29px;
-    background: url(../images/individual.gif) no-repeat 0 0;
-  }
-  #header .menu ul li.business a {
-    float: left;
-    width: 145px;
-    height: 29px;
-    background: url(../images/business.gif) no-repeat 0 0;
-  }
-  #header .menu ul li.testimonials a {
-    float: left;
-    width: 105px;
-    height: 29px;
-    background: url(../images/testimonials.gif) no-repeat 0 0;
-  }
-  #header .menu ul li.contact a {
-    float: left;
-    width: 96px;
-    height: 29px;
-    background: url(../images/contact.gif) no-repeat 0 0;
-  }
-  #header .menu ul li a:hover {
-    background-position: 0 -29px;
-  }
-  #header .menu ul li.last {
-    background: none;
-    padding-right: 0;
-  }
-
   #nav {
     background: url('/images/nav_bg.gif') no-repeat;
     width: 750px;
@@ -99,10 +22,6 @@
     float: right;
     display: inline;
     margin: 26px 0 0 43px;
-  }
-
-  #nav span {
-    display: none;
   }
 
   #nav li,

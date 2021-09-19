@@ -43,9 +43,6 @@
     float: left;
     width: 100%;
   }
-  .know_details h3 img {
-    float: left;
-  }
   .know_details p {
     float: left;
     width: 100%;
